@@ -1,0 +1,10 @@
+.agents/
+work/
+
+*.pptx
+*.pptx.inspect.ndjson
+*.docx
+*.zip
+
+.DS_Store
+Thumbs.db
